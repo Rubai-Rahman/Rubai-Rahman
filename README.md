@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Rubai Rahman</h1>
 <h3 align="center">A passionate frontend developer from Dhaka Bangladesh</h3>
  
-<a href="https://app.daily.dev/RubaiRahman"><img src="https://api.daily.dev/devcards/1707c680bb0144aeb920ac4dd0930148.png?r=4zc" width="400" alt="Rubai Rahman's Dev Card"/></a>
+<img align="right" width="300" height="350" src="https://api.daily.dev/devcards/1707c680bb0144aeb920ac4dd0930148.png?r=4zc" width="400" alt="Rubai Rahman's Dev Card" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubai-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="rubai-rahman" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://gregarious-haupia-e1b57f.netlify.app/](https://gregarious-haupia-e1b57f.netlify.app/)
 
-- 💬 Ask me about **react , JavaScript ,Css**
+- 💬 Ask me about  **React, JavaScript, CSS, DataDog, Playwright, Next js, MonoRepo, React Query, MongoDb, Mongoose, Node js, Express js**
 
 - 📫 How to reach me **rubairahman1@gmail.com**
 
