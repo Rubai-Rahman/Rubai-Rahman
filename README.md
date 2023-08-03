@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&locale=en" alt="rubai-rahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubai-rahman&" alt="rubai-rahman" /></p>
+<a href="https://app.daily.dev/RubaiRahman"><img src="https://api.daily.dev/devcards/1707c680bb0144aeb920ac4dd0930148.png?r=4zc" width="400" alt="Rubai Rahman's Dev Card"/></a>
