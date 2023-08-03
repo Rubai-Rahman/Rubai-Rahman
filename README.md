@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rubai Rahman</h1>
 <h3 align="center">A passionate frontend developer from Dhaka Bangladesh</h3>
  
-<img align="right" width="400" src="https://imgs.search.brave.com/1K80Kckbz-czxoSjC7eJOv3cIoX-PWrD--t0-pwurgo/rs:fit:460:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5E/MHgtYjluV1ZHdVpL/UHFBZHk4OHlBQUFB/QSZwaWQ9QXBp" alt="Coding" />
+<a href="https://app.daily.dev/RubaiRahman"><img src="https://api.daily.dev/devcards/1707c680bb0144aeb920ac4dd0930148.png?r=4zc" width="400" alt="Rubai Rahman's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubai-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="rubai-rahman" /> </p>
 
@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&locale=en" alt="rubai-rahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubai-rahman&" alt="rubai-rahman" /></p>
-<a href="https://app.daily.dev/RubaiRahman"><img src="https://api.daily.dev/devcards/1707c680bb0144aeb920ac4dd0930148.png?r=4zc" width="400" alt="Rubai Rahman's Dev Card"/></a>
+
