@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubai-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="rubai-rahman" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://gregarious-haupia-e1b57f.netlify.app/](https://gregarious-haupia-e1b57f.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rubairahman.vercel.app/]
 
 - 💬 Ask me about  **React, JavaScript, CSS, DataDog, Playwright, Next js, MonoRepo, React Query, MongoDb, Mongoose, Node js, Express js**
 
