@@ -25,6 +25,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubai-rahman&show_icons=true&locale=en&layout=compact" alt="rubai-rahman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubai-rahman&" alt="rubai-rahman" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&locale=en" alt="rubai-rahman" /></p>
 
