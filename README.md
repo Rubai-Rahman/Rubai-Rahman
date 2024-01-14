@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&locale=en" alt="rubai-rahman" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubai-rahman&" alt="rubai-rahman" />
+<p align="right">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=rubai-rahman&" alt="rubai-rahman](https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&theme=radical)https://github-readme-stats.vercel.app/api?username=rubai-rahman&show_icons=true&theme=radical" />
 </p>
