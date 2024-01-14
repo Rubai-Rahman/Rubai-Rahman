@@ -26,7 +26,7 @@ alt="NextJs"  /></a><a href="https://tailwindcss.com/" target="_blank" rel="nore
 <p>
 <a align="left" href="http://www.github.com/Rubai-Rahman"><img src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Rubai-Rahman's GitHub stats" /></a>
 
-<a align="right" href="https://github.com/Rubai-Rahman" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubai-Rahman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages &layout=compact" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
