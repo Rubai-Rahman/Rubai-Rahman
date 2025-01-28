@@ -8,11 +8,7 @@
   </a>
 </h1>
 
-<div align="center">
-  <a href="https://rubairahman.vercel.app/">
-    <img src="https://api.daily.dev/devcards/v2/zFqS265dzp97uvVqzp4t7.png?r=3tg&type=default" width="400" alt="Rubai Rahman's Dev Card"/>
-  </a>
-</div>
+
 
 ---
 
