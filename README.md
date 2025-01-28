@@ -1,55 +1,101 @@
-[![MasterHead](https://i.ibb.co/d7c8nhH/Rubai-rahman.png)]
+[![MasterHead](https://i.ibb.co/d7c8nhH/Rubai-rahman.png)](https://rubairahman.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Rubai Rahman</h1>
-<h3 align="center">A passionate web developer from Dhaka Bangladesh</h3>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!👋;I'm+Rubai+Rahman;Full-Stack+Web+Developer💻;MERN+Stack+Specialist🚀;UI/UX+Enthusiast🎨&center=true&size=25&color=0891b2&width=500">
+  </a>
+</h1>
 
-<img align="right" width="300" height="350" src="https://api.daily.dev/devcards/v2/zFqS265dzp97uvVqzp4t7.png?r=3tg&type=default" width="400" alt="Rubai Rahman's Dev Card" />
+<h3 align="center">Turning caffeine into code since 2020 ☕</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rubai-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="rubai-rahman" /> </p>
+<div align="center">
+  <a href="https://rubairahman.vercel.app/">
+    <img src="https://api.daily.dev/devcards/v2/zFqS265dzp97uvVqzp4t7.png?r=3tg&type=default" width="400" alt="Rubai Rahman's Dev Card"/>
+  </a>
+</div>
 
-- 👨‍💻 All of my projects are available at [https://rubairahman.vercel.app/]
-- 💬 Ask me about **React, JavaScript, CSS, DataDog, Playwright, Next js, MonoRepo, React Query, MongoDb, Mongoose, Node js, Express js**
-- 📫 How to reach me **rubairahman1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/pri.abir.18" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://github.com/Rubai-Rahman" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/rubai-rahman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/RahmanRubai" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🛠️ Tools
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Rubai-Rahman">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=0891b2" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&theme=react&hide_border=true&background=0D1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=0891b2&line=0891b2&point=FFFFFF" width="90%"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rubai-Rahman&theme=onedark&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Modern Web Development Best Practices](https://yourblog.com/post1)
+- [Mastering React Performance Optimization](https://yourblog.com/post2)
+- [TypeScript for JavaScript Developers](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:rubairahman1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rubai-rahman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/RahmanRubai">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://rubairahman.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left">
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+---
+
+<img src="https://raw.githubusercontent.com/Rubai-Rahman/Rubai-Rahman/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Rubai-Rahman&label=Profile+Views&color=0891b2&style=flat" alt="visitor counter"/> 
+  <a href="https://wakatime.com/@RubaiRahman">
+    <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime"/>
+  </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<a href="http://www.github.com/Rubai-Rahman"><img src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=false&show_icons=true" alt="Rubai-Rahman's GitHub stats" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubai-Rahman&layout=donut&bg_color=000000&text_color=ffffff&title_color=0891b2"/>
-</p>
-
-<a href="http://www.github.com/Rubai-Rahman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rubai-Rahman/Rubai-Rahman/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rubai-Rahman/Rubai-Rahman/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rubai-Rahman/Rubai-Rahman/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react"/>
+</div>
