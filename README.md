@@ -81,24 +81,4 @@
   </a>
 </div>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rubai-Rahman/Rubai-Rahman/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/Rubai-Rahman/Rubai-Rahman/blob/main/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rubai-Rahman&label=Profile+Views&color=22D3EE&style=flat" alt="visitor counter" /> 
-</div>
