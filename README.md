@@ -13,7 +13,6 @@
 ---
 
 ### 🛠️ **Tech Stack**
-
 #### **Frontend Development**
 <div align="center">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -24,15 +23,15 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yup-4B7BBF?style=for-the-badge&logo=yup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yup-4B7BBF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
   <img src="https://img.shields.io/badge/i18n-4B7BBF?style=for-the-badge&logo=i18next&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-008080?style=for-the-badge&logo=Zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joi-6001D2?style=for-the-badge&logo=Joi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Table-FF715E?style=for-the-badge&logo=tanstack-table&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Form-FF715E?style=for-the-badge&logo=tanstack-form&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-008080?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/Joi-6001D2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/TanStack_Table-FF715E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/TanStack_Form-FF715E?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
   <img src="https://img.shields.io/badge/Zustand-4A90E2?style=for-the-badge&logo=zustand&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </div>
 
