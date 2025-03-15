@@ -2,12 +2,6 @@
   <img src="https://i.ibb.co/d7c8nhH/Rubai-rahman.png" alt="header" width="100%"/>
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Rubai+Rahman;Full-Stack+Web+Developer;MERN+Stack+Specialist;Open-Source+Enthusiast" alt="Typing SVG" />
-  </a>
-</h1>
-
 
 
 ---
@@ -70,14 +64,14 @@
 
 ### 📊 **GitHub Analytics**
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Rubai-Rahman">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&theme=react&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="90%"/>
 </div>
 
@@ -85,7 +79,7 @@
 
 ### 🏆 **GitHub Trophies**
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Rubai-Rahman&theme=onedark&no-frame=true&row=1&margin-w=30&margin-h=15" />
 </div>
 
@@ -93,7 +87,7 @@
 
 ### 🌐 **Connect With Me**
 
-<div align="center">
+<div align="left">
   <a href="mailto:rubairahman1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
