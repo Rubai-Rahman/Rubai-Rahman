@@ -1,12 +1,5 @@
-<div>
-<div align="left">
-  <img src="https://i.ibb.co/TDqtzBCs/haducan.gif" alt="header" width="50%" />
-</div>
-<div align="right">
-  <img src="https://i.ibb.co/sdCtwmYp/giphy.webp" alt="header" width="50%" />
-</div>
-</div>
-
+| ![Image 1](https://i.ibb.co/TDqtzBCs/haducan.gif) | ![Image 2](https://i.ibb.co/sdCtwmYp/giphy.webp) |
+|-------------------------------------------------|------------------------------------------------|
 
 
 ---
@@ -63,21 +56,23 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
 
-
-
 ---
 
 ### 📊 **GitHub Analytics**
 
-<div align="left">
-  <a href="https://github.com/Rubai-Rahman">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&theme=react&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" width="100%" height="200px" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&theme=react&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="100%" height="200px" /></td>
+  </tr>
+</table>
+
+
+
+
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="100%"/>
 </div>
 
 ---
@@ -93,18 +88,24 @@
 ### 🌐 **Connect With Me**
 
 <div align="left">
+  <!-- Gmail Badge -->
   <a href="mailto:rubairahman1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/rubai-rahman">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <!-- Twitter Badge with Simple Twitter Logo -->
   <a href="https://twitter.com/RahmanRubai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <!-- Portfolio Badge -->
   <a href="https://rubairahman.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
 </div>
+
+
 <a href="https://info.flagcounter.com/ei8p"><img src="https://s01.flagcounter.com/count2/ei8p/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
