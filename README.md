@@ -1,7 +1,9 @@
-<div align="center">
-  <img src="https://i.ibb.co/d7c8nhH/Rubai-rahman.png" alt="header" width="100%"/>
+<div align="left">
+  <img src="https://i.ibb.co/TDqtzBCs/haducan.gif" alt="header" width="50%" />
 </div>
-
+<div align="right">
+  <img src="https://i.ibb.co/sdCtwmYp/giphy.webp" alt="header" width="50%" />
+</div>
 
 
 ---
