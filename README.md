@@ -1,9 +1,12 @@
+div
 <div align="left">
   <img src="https://i.ibb.co/TDqtzBCs/haducan.gif" alt="header" width="50%" />
 </div>
 <div align="right">
   <img src="https://i.ibb.co/sdCtwmYp/giphy.webp" alt="header" width="50%" />
 </div>
+</div>
+
 
 
 ---
