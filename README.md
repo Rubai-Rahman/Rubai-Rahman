@@ -66,11 +66,13 @@
   </tr>
 </table>
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="100%"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="100%" height="200px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubai-Rahman&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" height="200px" /></td>
+  </tr>
+</table>
 
----
 
 ### 🏆 **GitHub Trophies**
 
