@@ -83,7 +83,8 @@
 
 ---
 
-### 🌐 **Connect With Me**
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1ajkycXhra2tjMjJyM2dwczJmOXU2Y2RzNXJydmFlMnpyMW94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7PjZc4B0DJHMfISNk/giphy.gif" width="20px"> **Connect With Me**
+
 
 <div align="left">
   <!-- Gmail Badge -->
