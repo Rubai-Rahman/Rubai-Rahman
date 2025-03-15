@@ -4,7 +4,8 @@
 ---
 
 ### 🛠️ **Tech Stack**
-#### **Frontend Development**
+#### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1sMzJhOHAzYXJ1d2tuMWZwNnNsZjZzajI1azQwZmI0bzA3MTRmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="20px"> **Frontend Development**
+
 <div align="left">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,7 +29,7 @@
 </div>
 
 
-#### **Backend Development**
+#### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20px"> **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/Hasura-5900B4?style=for-the-badge&logo=hasura&logoColor=white" />
 </p>
 
-#### **DevOps & Tools**
+#### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml1NnU2Nm9mbXl5Y2J6c2U0Ym1udGxweTZvM2U3dXA0bmIya2F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zp1DfdbPy8LkYXxoNA/giphy.gif" width="20px"> **DevOps & Tools**
 <div align="left">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -74,7 +75,7 @@
 </table>
 
 
-### 🏆 **GitHub Trophies**
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5aHJmOXlkc25jaHUzOHh4c2xlbm8zY2Q5cTRpdDFteHczaW1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx65AQD9zinDzQKDws/giphy.gif" width="20px"> **GitHub Trophies**
 
 <div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Rubai-Rahman&theme=onedark&no-frame=true&row=1&margin-w=30&margin-h=15" />
