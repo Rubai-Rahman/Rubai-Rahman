@@ -1,7 +1,6 @@
 | ![Image 1](https://i.ibb.co/TDqtzBCs/haducan.gif) | ![Image 2](https://i.ibb.co/sdCtwmYp/giphy.webp) |
 |-------------------------------------------------|------------------------------------------------|
 
-
 ---
 
 ### 🛠️ **Tech Stack**
@@ -67,10 +66,6 @@
   </tr>
 </table>
 
-
-
-
-
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rubai-Rahman&theme=react-dark&bg_color=0D1117&hide_border=true&color=22D3EE&line=22D3EE&point=FFFFFF" width="100%"/>
 </div>
@@ -96,9 +91,9 @@
   <a href="https://linkedin.com/in/rubai-rahman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Twitter Badge with Simple Twitter Logo -->
+  <!-- X Badge (formerly Twitter) with X logo, keeping original Twitter URL -->
   <a href="https://twitter.com/RahmanRubai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <!-- Portfolio Badge -->
   <a href="https://rubairahman.vercel.app/">
