@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Table-FF715E?style=for-the-badge&logo=tanstacktable&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/i18n-4B7BBF?style=for-the-badge&logo=i18next&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -22,7 +23,6 @@
   <img src="https://img.shields.io/badge/Yup-4B7BBF?style=for-the-badge&logo=yup&logoColor=white" />
   <img src="https://img.shields.io/badge/Joi-6001D2?style=for-the-badge&logo=joi&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-008080?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Table-FF715E?style=for-the-badge&logo=tanstacktable&logoColor=white" />
   <img src="https://img.shields.io/badge/TurboRepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
   <img src="https://img.shields.io/badge/Monorepo-6E56CF?style=for-the-badge" />
 </div>
