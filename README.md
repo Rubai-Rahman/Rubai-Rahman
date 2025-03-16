@@ -2,7 +2,6 @@
 |-------------------------------------------------|------------------------------------------------|
 
 ---
-
 ### 🛠️ **Tech Stack**
 #### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1sMzJhOHAzYXJ1d2tuMWZwNnNsZjZzajI1azQwZmI0bzA3MTRmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="20px"> **Frontend Development**
 
@@ -73,7 +72,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubai-Rahman&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="100%" height="200px" /></td>
   </tr>
 </table>
-
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5aHJmOXlkc25jaHUzOHh4c2xlbm8zY2Q5cTRpdDFteHczaW1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx65AQD9zinDzQKDws/giphy.gif" width="20px"> **GitHub Trophies**
 
