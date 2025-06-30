@@ -53,7 +53,9 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-   <img src="https://img.shields.io/badge/Playwright-00A3E0?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/playwright-#2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+
 </div>
 
 
