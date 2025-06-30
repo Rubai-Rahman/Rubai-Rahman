@@ -17,14 +17,13 @@
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/i18n-4B7BBF?style=for-the-badge&logo=i18next&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-4A90E2?style=for-the-badge&logo=zustand&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-4A90E2?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=dark" />
-  <img src="https://img.shields.io/badge/Yup-4B7BBF?style=for-the-badge&logo=yup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joi-6001D2?style=for-the-badge&logo=joi&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-008080?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/TurboRepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Monorepo-6E56CF?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
 </div>
 
 
@@ -47,7 +46,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-FF4F00?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-00A3E0?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -55,6 +53,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+   <img src="https://img.shields.io/badge/Playwright-00A3E0?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
 
