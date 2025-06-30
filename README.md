@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Convex-4A90E2?style=for-the-badge&logo=convex&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Hasura-5900B4?style=for-the-badge&logo=hasura&logoColor=white" />
@@ -41,20 +40,19 @@
 
 #### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml1NnU2Nm9mbXl5Y2J6c2U0Ym1udGxweTZvM2U3dXA0bmIya2F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zp1DfdbPy8LkYXxoNA/giphy.gif" width="20px"> **DevOps & Tools**
 <div align="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+ <img src="https://img.shields.io/badge/VSCode-3C8DBC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABblBMVEVHcExQjrMxoN1CjLYzpd4Igcx4mLAUbqZVi6Erf68lhcEHbq0jc6kPbKg0puMdfbcxgbAIc7TgwbQWg8QIj9IXiscXdK8Rcq8Le75JoM0Ia6wYickOdrYjeK0KbasYbKIMgswmjMRFptIQgscPjs0acagphrgej8gchMUViMgJic8ZcaYinu4khcEUjtMvsec2qOQlnekLdLMNeLghdaQIebsTjcwGi9EMe8UrsfAlm+kOhMsuseoYe7kRdbApsvEHjdQNeLYlnuw3secdj8wuse0km88mr/UBhdAipvEkqPIipPAAdbgAd7kho/EAiNIBi9MjrPIns/QAgs4BeLolqfQiovEBeboBhM8Bj9UgnvIkrvQCgM4CbrMBb7ABjtUBba4msvMlq/ICc7UBjdQjp/EBa6sgoO8Be7wBe8kChdMBfcwBitIAf84gn/ABcbMCdbYSj88DZ6gAc70CdsUDbLERh9USi9YCgMYVktEW45sBAAAAR3RSTlMAB3YNdvUDjQUbQfcuuF9cFPUBovWKfZzpEe53yjfYWOQxFsS9ZiJfa5TvcfdN27hSxOO8P/as+d30stTLjKj7/trnadXg2auVofQAAANPSURBVEjHldYHU+JAGIDh0KWpgBWxd7H3cneWK+aUCAoackKIJqIISkRR/Pf3bRKyGxXE15kwOvOwO26yG4r6NE/gz9y8hfpCvSGWvd74CnLtsoz4enKxMdfc3ZiY6bq5YYqvJ9D2XPPQ58DfAoJF5AK1/e3nZ6gpjATL8A+InCio2VRPmDpWboAkZJUo5mLDWkdYviMB8wJygftdW7R2sjAp6A3ZrymcP1i1BCMLD/tEtcTYEqsTkX9PTPZ3N0mITWgxEfHdKPbxkdVBo1gOMYla5ByG6GnjuNnxJnLJd7FIRCLF4K/zc4JY2kFwXFt7K17yxQgQRisi9vVbj89x1ORDBhEuM6JNzj7qkxkyr4eyXmJzTCljgOAy6uRMHb6IHMH5HDC89ZiIGuE0k9lpa++mLA6fKGsEfSyOou+BUfQuqcERGEBN2ll1ObK8KIqKYCKyuNSrTNZIqLFViZMkJDgpNiVnBb5YVIwo+zqdlEaI4PehwI6klpGkwk0WIRhJlBdHqzc6kFM99Ifu9rVYTIIfdI1V+BIaqCiGlvWFsh6cGgmsJphYIaaWlNFA7uqkUOZ3hGrqmaoCZNlsKRgmnz7rAVF1xcenlFEKEFwrfcuGe8589QEZ9dGFqF5hy/UZaQoHS8UkNoXoVI/FQLC50vYFdzZbSsejRGuBMYL8vcIp+4LDzQtghEqUjtJq0Sg97CIIkbIvpNOCgEy2Qt/SercDE/pSHhqI80c6XeR5xZS6koShbZPa2pgNxOPl05BiSt7eSdLcVidnJF4hrSYIwQ4LPKQ2mk5ipU7OfEhEuctljfT125WbBxv4SCqTMxKHW0CVy/C8qg/yhC1JFE8N91LmoyOCwH9YKAuC20FsFwPxZFwn8dR6i5kQRzCTcLBc7us3bEoDcaJUbmX27AiH7pZ+b6fnzWm3lcLkLse8vCEfbbCDw9jkc4mXM2zOap14Y0upavncIxBczVPSGUjdKeKuUUL5WwP5O1Q+l3t8vtarQ9DBZ8PkHoLL9fX9Xr0T3NRhy0O5p8fnf3rT5rqnvmnCRhI00kL9Q5zy21u6YF46mV5o4P3CP7OeewJyr4JG3mL8dte6Osr05nx34y9XT08ve5tfeiPzBGY3ZwjwH2DItfzlOHJxAAAAAElFTkSuQmCC" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-FF4F00?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+   <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white" />
+   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-0E0E0E?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/playwright-#2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/webp;base64,UklGRgoDAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSDgBAAABgFtr29Pmq37UE1otYEpRKo9iRmABZpBaWihxqQFwCQuYWjlUOXzO/P/7LRARjNxGUpTMMpya3kDN2r0oq+bH5/M4L7Ooa5OpKoiL7YP/8bEt4o4yOhulG9ZwnY71T/zkwJoeEl8PK6zZwDq0NHAnZzbyPPUaaedsbN5u2mYMcPb/cnOGmLv//W3CICfWX17PKM7hH14+GGb9Ox5UwkAT9cP4gOQw+jmmDDVVRMEayyYgihlsTHaBprC7WzTbXvRA84gyhpuVeKo5nvkRz/GJ5ymBxIXEKxWeUiJyJKKzJ5ABElkmkckUbLCsA5mKRCNs1RtLVVbya3j1JgqBHUKiC8E73Zsr0E2lOzaRNzWeClz85NESmG50VeNUq4lt0rHZ1NVpntLe40CRqXY3ysrfk2CVRT2bGiVWUDggrAEAAPAKAJ0BKjIAMgA+kT6XSKWjoiEsFVzIsBIJagZwY4APWr/7V9yrmfaHpG26F217zYvwVux0TczkaRfosxceH9d4sastOZ/7MA9yivffsCwMwHouWlC1kvvStHXvsT6QAAD+8ynB2Pnesrxsn2JYmxyXWKexxgBzlnKGACyVjfrdI76iNfe6Sd2HUjD+NtRstNQv//UKOGIkPkQLQj7Vs4tflDrSN/5/t+xfyo2A6iIabeDYw9KFKFOCDKR7b6fZpLeYmgmC75PgWLb9+48IVLTrceFmQPv4MENh5O07EZlVv01IOP4aoH09U2oleqcdCjNTI4pn3v/wNen4+hY/hnLZO63SkFvODZBNL3M7QZ4aUPcRT1lmoWHmTbQviRNMk+EgFTSjVSC3z4D4DJBuTAZMqXmLbCX8VfLpvOJ1DNhgCGxCqUN00ySeB8heBpvBjVwRBDqNF+ItBsYh4/yDfy0/0wid4nSya50cL3c8f5YDOa7Tes1uEoSN7wGCpTJT//+lKRd/1GcSfF2LOOu//0gTVycI+eRBGnIltLwf/9OgNsxKEHYzEgGIYAAA" />
 
 </div>
 
