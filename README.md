@@ -23,6 +23,10 @@
   <img src="https://img.shields.io/badge/Zod-008080?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/TurboRepo-000000?style=for-the-badge&logo=turborepo&logoColor=white" />
    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/webp;base64,UklGRgoDAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSDgBAAABgFtr29Pmq37UE1otYEpRKo9iRmABZpBaWihxqQFwCQuYWjlUOXzO/P/7LRARjNxGUpTMMpya3kDN2r0oq+bH5/M4L7Ooa5OpKoiL7YP/8bEt4o4yOhulG9ZwnY71T/zkwJoeEl8PK6zZwDq0NHAnZzbyPPUaaedsbN5u2mYMcPb/cnOGmLv//W3CICfWX17PKM7hH14+GGb9Ox5UwkAT9cP4gOQw+jmmDDVVRMEayyYgihlsTHaBprC7WzTbXvRA84gyhpuVeKo5nvkRz/GJ5ymBxIXEKxWeUiJyJKKzJ5ABElkmkckUbLCsA5mKRCNs1RtLVVbya3j1JgqBHUKiC8E73Zsr0E2lOzaRNzWeClz85NESmG50VeNUq4lt0rHZ1NVpntLe40CRqXY3ysrfk2CVRT2bGiVWUDggrAEAAPAKAJ0BKjIAMgA+kT6XSKWjoiEsFVzIsBIJagZwY4APWr/7V9yrmfaHpG26F217zYvwVux0TczkaRfosxceH9d4sastOZ/7MA9yivffsCwMwHouWlC1kvvStHXvsT6QAAD+8ynB2Pnesrxsn2JYmxyXWKexxgBzlnKGACyVjfrdI76iNfe6Sd2HUjD+NtRstNQv//UKOGIkPkQLQj7Vs4tflDrSN/5/t+xfyo2A6iIabeDYw9KFKFOCDKR7b6fZpLeYmgmC75PgWLb9+48IVLTrceFmQPv4MENh5O07EZlVv01IOP4aoH09U2oleqcdCjNTI4pn3v/wNen4+hY/hnLZO63SkFvODZBNL3M7QZ4aUPcRT1lmoWHmTbQviRNMk+EgFTSjVSC3z4D4DJBuTAZMqXmLbCX8VfLpvOJ1DNhgCGxCqUN00ySeB8heBpvBjVwRBDqNF+ItBsYh4/yDfy0/0wid4nSya50cL3c8f5YDOa7Tes1uEoSN7wGCpTJT//+lKRd/1GcSfF2LOOu//0gTVycI+eRBGnIltLwf/9OgNsxKEHYzEgGIYAAA" />
+   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 
 </div>
 
@@ -44,16 +48,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-   <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white" />
-   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-0E0E0E?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=data:image/webp;base64,UklGRgoDAABXRUJQVlA4WAoAAAAQAAAAMQAAMQAAQUxQSDgBAAABgFtr29Pmq37UE1otYEpRKo9iRmABZpBaWihxqQFwCQuYWjlUOXzO/P/7LRARjNxGUpTMMpya3kDN2r0oq+bH5/M4L7Ooa5OpKoiL7YP/8bEt4o4yOhulG9ZwnY71T/zkwJoeEl8PK6zZwDq0NHAnZzbyPPUaaedsbN5u2mYMcPb/cnOGmLv//W3CICfWX17PKM7hH14+GGb9Ox5UwkAT9cP4gOQw+jmmDDVVRMEayyYgihlsTHaBprC7WzTbXvRA84gyhpuVeKo5nvkRz/GJ5ymBxIXEKxWeUiJyJKKzJ5ABElkmkckUbLCsA5mKRCNs1RtLVVbya3j1JgqBHUKiC8E73Zsr0E2lOzaRNzWeClz85NESmG50VeNUq4lt0rHZ1NVpntLe40CRqXY3ysrfk2CVRT2bGiVWUDggrAEAAPAKAJ0BKjIAMgA+kT6XSKWjoiEsFVzIsBIJagZwY4APWr/7V9yrmfaHpG26F217zYvwVux0TczkaRfosxceH9d4sastOZ/7MA9yivffsCwMwHouWlC1kvvStHXvsT6QAAD+8ynB2Pnesrxsn2JYmxyXWKexxgBzlnKGACyVjfrdI76iNfe6Sd2HUjD+NtRstNQv//UKOGIkPkQLQj7Vs4tflDrSN/5/t+xfyo2A6iIabeDYw9KFKFOCDKR7b6fZpLeYmgmC75PgWLb9+48IVLTrceFmQPv4MENh5O07EZlVv01IOP4aoH09U2oleqcdCjNTI4pn3v/wNen4+hY/hnLZO63SkFvODZBNL3M7QZ4aUPcRT1lmoWHmTbQviRNMk+EgFTSjVSC3z4D4DJBuTAZMqXmLbCX8VfLpvOJ1DNhgCGxCqUN00ySeB8heBpvBjVwRBDqNF+ItBsYh4/yDfy0/0wid4nSya50cL3c8f5YDOa7Tes1uEoSN7wGCpTJT//+lKRd/1GcSfF2LOOu//0gTVycI+eRBGnIltLwf/9OgNsxKEHYzEgGIYAAA" />
-
+ 
+  
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAyADIDAREAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgABgkBBf/EADgQAAEDAwMCBAUABwkAAAAAAAECAwQFBhEAByESMQgJEyIUMkFRYRUjM0JSgZFEYmNmcZSjwcP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A1T0Hj3Nd1tWbA/SVzVhiAwThHWSVuHjhCEgqWRkEhIOByeNArG8PjWqdGhynLFprERphJU1ImJS6t3GMnpB6Ujk8Dq7AhWCcACtn/Nsu6sJaXuftvQn20KCJRoTj0ZxPJHUhLy3EqJxwnqA/vaB9dpt9tr97KWalt9czU1xpCVSYTqSzKjE5GHGlcjlJ9wyk4yCQQdBf9BzOgHW5u60SzqrCtCLWKBTa3WWSqnuVqWpllxeVAIT0pVlXsPzFIyU46icaAKXX4dt976nOVWvXjb02SvIBXLfw0kknoQA0elIJOEjgZ0AyvrwKb03HTlxoN2WihxzjDsuQP/HQAW1/KY8SlvvOKdvzbx0FXX7J0sd8n6xvzoCdZvl6eJyxq1Bui1dyLPplUhPBxmRHmzEqSfr/AGfkHsR2I4II0Dx7bXLfMB2n2JuxULflXO5CdlJkUuQo/ENtFsFSm1NoCSS5wRwelXtGDoCPoM0fMyqstO+NApqVkNMWqw6B+Vy5QJ/4x/TQUzYvxn7mbSCPSJM5Vw0BHBp1RdKlND/AeOS19fbgo57DvoNA9lfE7tPvrFSm0a+I9XQnrkUWcQ1Na+5Cc4dQP42yocjOO2gKc2oxqe2FvrwT8o++gqdw3cin06ZVanPbptMhRnJUl4j2stNoKlqUftgHQZ4eH/xBV7d7zA7YuqI+5Ho1fNSo8SGrIDVNZpsx9pJH8anGUOqzz1KP0A0Go2gzN8zFrO+lKc/yfC4/0mz9AolOiS57vw8Rhx1f2SP++2gvVv2BUYslmqLnvxpUdYcjqjOFtxpwdlBQOQR+CNBrIy6fQadWSta20FalHJUegdye+gR3zMPEY9bNvUzYq2pbjMu42kVCtvoyCmAFfqmAcYPqOJ6lj6IaGf2mgCnls0lFw+LS0qq2pRFDiVOecdvdCej8/wC40GzmgTzxueHCv7m3TSNw6Q8PhYlKFLnJCiFNpbdddQvPZKT6y8qOB7Rk/KCC3tbOTLZPwcanIjY+h5P9dB6Eeyp6UhC2Af56B5lTmoFKTJc56G0AJz3PQMD+ZwNAud+bAxt1XZ717UqBWFVB1bzvqpz0k9uk90YAABByMDQXPwc+DigbC3JVb1jvzpb8xpUeM5JkpWG2+OEAIGeCrK+o54GAUnINtoJoKJdez1qXI2pUaMinPqOSWUD01HjujsDweRjlRJBOgA11bHXrbi1PxaWufGyoqXFHqdIBBJwMqwc9+kHg9jzoCnGt6pXAqNFjNL9FroUpRScBYAwpXVjpCc/kkA4BxyF6oNi06mMD49tqS4SD6fSPSRwQRj9/ufm4yAQlJ0Fn0E0E0E0E0E0E0HB20HdB/9k=" />
 </div>
 
 
