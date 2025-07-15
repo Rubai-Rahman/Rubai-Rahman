@@ -93,7 +93,6 @@
   <a href="https://www.linkedin.com/in/rubai-rahman-9446b3363/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- X Badge (formerly Twitter) with X logo, keeping original Twitter URL -->
   <a href="https://twitter.com/RahmanRubai">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white](https://img.shields.io/badge/X-@RubaiRahman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
