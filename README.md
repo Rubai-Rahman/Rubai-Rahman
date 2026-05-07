@@ -1,4 +1,4 @@
-| ![Image 1](https://i.ibb.co/TDqtzBCs/haducan.gif) | ![Image 2]([https://i.ibb.co/sdCtwmYp/giphy.webp](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNzMzY5aWx4dnpxczdtcXV6MjNwcTY0ZDd1Mnp0Z2pnYjdkOWhpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif)) |
+| ![Image 1](https://i.ibb.co/TDqtzBCs/haducan.gif) | ![Image 2](https://i.ibb.co.com/gLg9xLxN/programming-GIF.gif)
 |-------------------------------------------------|------------------------------------------------|
 
 ---
