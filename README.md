@@ -126,11 +126,10 @@ architecture, SEO, and SSR/ISR/SSG rendering strategies.
 
 ---
 
----
 
 ## 🔥 Coding Activity
 
----
+
 ### 📊 **GitHub Analytics**
 
 <table>
@@ -157,7 +156,7 @@ Visit my GitLab profile to see my daily contributions and private project activi
 </p>
 
 </div>
----
+
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI1ajkycXhra2tjMjJyM2dwczJmOXU2Y2RzNXJydmFlMnpyMW94cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n7PjZc4B0DJHMfISNk/giphy.gif" width="20px"> **Connect With Me**
 
