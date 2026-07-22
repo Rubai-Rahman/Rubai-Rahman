@@ -134,19 +134,16 @@ architecture, SEO, and SSR/ISR/SSG rendering strategies.
 ### 📊 **GitHub Analytics**
 
 <table>
+  
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" width="100%" height="200px" /></td>
+    <td><img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rubai-Rahman&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"
+/></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rubai-Rahman&theme=react&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="100%" height="200px" /></td>
   </tr>
 </table>
 
 
-
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHh5aHJmOXlkc25jaHUzOHh4c2xlbm8zY2Q5cTRpdDFteHczaW1mcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fx65AQD9zinDzQKDws/giphy.gif" width="20px"> **GitHub Trophies**
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rubai-Rahman&theme=onedark&no-frame=true&row=1&margin-w=30&margin-h=15" />
-</div>
 
 ### GitLab
 
