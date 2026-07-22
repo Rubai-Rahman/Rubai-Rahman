@@ -10,30 +10,6 @@ using React, Next.js and TypeScript. I specialize in enterprise e-commerce platf
 architecture, SEO, and SSR/ISR/SSG rendering strategies.
 </p>
 
-<div align="center">
-
-<a href="https://rubairahman.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/rubai-rahman-9446b3363/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:rubairahman1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://gitlab.com/rubairahman1">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-</a>
-<a href="https://twitter.com/RahmanRubai">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/Rubai-Rahman?label=Followers&style=for-the-badge&color=22D3EE&labelColor=0D1117" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=Rubai-Rahman&style=for-the-badge&color=22D3EE&label=Profile+Views" alt="Profile views" />
-
-</div>
 
 ---
 
@@ -46,8 +22,6 @@ architecture, SEO, and SSR/ISR/SSG rendering strategies.
 - Strong focus on **performance optimization** and Core Web Vitals
 - Designing reusable **component architecture** and scalable design systems
 - Integrating REST/GraphQL **APIs** and third-party services
-
----
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml1NnU2Nm9mbXl5Y2J6c2U0Ym1udGxweTZvM2U3dXA0bmIya2F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zp1DfdbPy8LkYXxoNA/giphy.gif" width="20px"> **Featured Projects**
 
